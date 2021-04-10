@@ -1,0 +1,12 @@
+Package: testpackage
+Type: Package
+Title: Test Package
+Version: 0.1.0
+Author: Shane Huang
+Maintainer: The package maintainer <shanehuang16@gmail.com>
+Description: This is the first package I've made. Right now it contains a function I use to count the defensive events for a specific player in a game.
+License: Used if publishing on CRAN
+Import: tidyverse
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
